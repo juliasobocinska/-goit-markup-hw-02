@@ -30,14 +30,14 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.nav:hover .nav:visited {
+.navfirst:hover .navfirst:hover:visited {
     color: #404bbf;
 }
-.mail-tel:hover .mail-tel:visited {
+.addressfirst:hover .addressfirst:visited {
 color: #404bbf;
 }
-.first-button:hover .first-button:visited {
-    color: #404bbf;
+.first-button:hover .first-button:active {
+    color: #404BBF;
 }
 .address {
     font-style: normal;
@@ -140,4 +140,11 @@ color: #404bbf;
 }
 span {
     color: #f4f4fd
+}
+.pparagraph {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
