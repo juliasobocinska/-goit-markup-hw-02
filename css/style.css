@@ -82,7 +82,7 @@ color: #404bbf;
     font-weight: 700;
     font-size: 18px;
     letter-spacing: 0.03em;
-    line-height: 1.5;
+    line-height: 1.17;
     text-transform: uppercase;
 }
 .logo-rest {
@@ -145,7 +145,7 @@ color: #404bbf;
 .paragraph {
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
