@@ -30,13 +30,13 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.nav:hover .nav:active {
+.nav:hover .nav:visited {
     color: #404bbf;
 }
-.mail-tel:hover .mail-tel:active {
+.mail-tel:hover .mail-tel:visited {
 color: #404bbf;
 }
-.first-button:hover .first-button:active {
+.first-button:hover .first-button:visited {
     color: #404bbf;
 }
 .address {
