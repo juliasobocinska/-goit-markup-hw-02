@@ -30,10 +30,16 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.nav:hover .nav:active .mail-tel:hover .mail-tel:active .first-button:hover .first-button:active {
+.nav:hover .nav:active {
     color: #404bbf;
 }
-address {
+.mail-tel:hover .mail-tel:active {
+color: #404bbf;
+}
+.first-button:hover .first-button:active {
+    color: #404bbf;
+}
+.address {
     font-style: normal;
 }
 .mail-tel {
@@ -124,4 +130,14 @@ address {
     letter-spacing: 0.02em;
     color: #F4F4FD;
     text-align: left;
+}
+.portfolio {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+span {
+    color: #f4f4fd
 }
