@@ -31,15 +31,15 @@ a {
     letter-spacing: 0.02em;
 }
 .navfirst:hover 
-.navfirst:hover:visited {
+.navfirst:focus {
     color: #404bbf;
 }
 .addressfirst:hover 
-.addressfirst:visited {
+.addressfirst:focus {
 color: #404bbf;
 }
 .first-button:hover 
-.first-button:visited {
+.first-button:focus {
     color: #404BBF;
 }
 .addressfirst {
