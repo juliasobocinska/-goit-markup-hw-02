@@ -21,7 +21,15 @@ a {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 4%;
+    text-decoration: underline;
+}
+.address li {
     text-decoration: none;
+    list-style-type: none;
+}
+.nav li {
+    text-decoration: none;
+    list-style-type: none;
 }
 .link {
     color: #2e2f42;
