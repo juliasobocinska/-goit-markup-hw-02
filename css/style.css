@@ -23,9 +23,13 @@ a {
     letter-spacing: 4%;
     text-decoration: underline;
 }
-.ul-list {
+address {
     list-style-type: none;
     text-decoration: none;
+}
+nav {
+list-style-type: none;
+text-decoration: none;
 }
 .link {
     color: #2e2f42;
