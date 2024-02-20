@@ -23,11 +23,11 @@ a {
     letter-spacing: 4%;
     text-decoration: underline;
 }
-.list >.link{
+.link{
 list-style-type: none;
 text-decoration: none;
 }
-.address >.addressfirst{
+.addressfirst{
     list-style-type: none;
     text-decoration: none;
 }
@@ -38,17 +38,16 @@ text-decoration: none;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
- .nav .link:hover, 
- .nav .link:focus {
+ .nav>.link:hover, 
+ .nav>.link:focus {
     color: #404bbf;
 }
-.address .addressfirst:hover, 
-.address .addressfirst:focus {
+.address>.addressfirst:hover, 
+.address>.addressfirst:focus {
 color: #404bbf;
 }
-.button:hover, 
- .button:focus
- {
+.section-first>.button:hover, 
+.section-first>.button:focus {
     background-color: #404BBF;
 }
 .address {
