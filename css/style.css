@@ -38,16 +38,16 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
- .nav>.link:hover, 
- .nav>.link:focus {
+ .nav .link:hover, 
+ .nav .link:focus {
     color: #404bbf;
 }
-.address>.addressfirst:hover, 
-.address>.addressfirst:focus {
+.address .addressfirst:hover, 
+.address .addressfirst:focus {
 color: #404bbf;
 }
-.section-first>.button:hover, 
-.section-first>.button:focus {
+.section-first .button:hover, 
+.section-first .button:focus {
     background-color: #404BBF;
 }
 .address {
@@ -140,6 +140,9 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #F4F4FD;
     text-align: left;
+}
+.logo-footer {
+    color: #F4F4FD;
 }
 .portfolio {
     font-weight: 500;
