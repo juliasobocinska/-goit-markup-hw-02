@@ -21,15 +21,7 @@ a {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 4%;
-    text-decoration: underline;
-}
- {
-    list-style-type: none;
     text-decoration: none;
-}
-li {
-list-style-type: none;
-text-decoration: none;
 }
 .link {
     color: #2e2f42;
