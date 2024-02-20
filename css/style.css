@@ -30,17 +30,23 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.navfirst:hover 
-.navfirst:focus {
+.list .link:hover 
+.list .link:focus
+.list .link:active {
     color: #404bbf;
 }
-.addressfirst:hover 
-.addressfirst:focus {
+.address .addressfirst:hover 
+.address .addressfirst:focus
+.address .addressfirst:active {
 color: #404bbf;
 }
-.first-button:hover 
-.first-button:focus {
+.section-first .first-button:hover 
+.section-first .first-button:focus
+.section-first .first-button:active {
     color: #404BBF;
+}
+.address {
+    font-style: normal;
 }
 .addressfirst {
     font-style: normal;
@@ -68,7 +74,7 @@ color: #404bbf;
 .first-button {
     background-color: #4D5AE5;
     color: white;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto",sans-serif;
     font-weight: 500;
     letter-spacing: 0.04em;
     cursor: pointer;
@@ -149,7 +155,7 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.navfirst {
+.link:active {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
