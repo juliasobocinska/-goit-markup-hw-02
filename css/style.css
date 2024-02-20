@@ -23,11 +23,7 @@ a {
     letter-spacing: 4%;
     text-decoration: underline;
 }
-.link{
-list-style-type: none;
-text-decoration: none;
-}
-.addressfirst{
+.ul-list {
     list-style-type: none;
     text-decoration: none;
 }
