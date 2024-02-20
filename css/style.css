@@ -23,11 +23,11 @@ a {
     letter-spacing: 4%;
     text-decoration: underline;
 }
-address {
+ {
     list-style-type: none;
     text-decoration: none;
 }
-nav {
+li {
 list-style-type: none;
 text-decoration: none;
 }
